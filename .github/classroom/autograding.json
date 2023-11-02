@@ -1,5 +1,5 @@
 {
-  "repo": "helsoc7/html-sudoku",
+  "repo": "helsoc7/html-oku",
   "introduction": "Eure Aufgabe ist es, eine HTML-Datei namens sudoku.html zu erstellen mit einer HTML Tabelle für das Spielfeld.",
   "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Sudoku_parts.svg/640px-Sudoku_parts.svg.png",
   "timeframe": "45 Minuten (Viel Erfolg!)",
@@ -14,7 +14,7 @@
       "name": "Add a html  file with the name sudoku.html and add the title 'Sudoku'",
       "feedback": "You have to add the html file with the name sudoku.html and add the title 'Sudoku'",
       "urls": [
-        ""
+        "https://www.w3schools.com/tags/tag_title.asp#:~:text=The%20tag%20defines%20the,search%20engine%20optimization%20(SEO)!"
       ],
       "keywords": [
         "html",
@@ -34,7 +34,7 @@
       "name": "Add a table with the id 'sudoku-grid'",
       "feedback": "You have to add a table tag with the id 'sudoku-grid'",
       "urls": [
-        ""
+        "https://www.w3schools.com/html/html_id.asp", "https://www.w3schools.com/html/html_tables.asp"
       ],
       "keywords": [
         "html",
@@ -54,7 +54,7 @@
       "name": "Add 9 rows in the table 'sudoku-grid'",
       "feedback": "You have to add 9 rows in the table 'sudoku-grid'",
       "urls": [
-        ""
+        "https://www.w3schools.com/tags/tag_tr.asp#:~:text=Definition%20and%20Usage,%3E%20or%20elements."
       ],
       "keywords": [
         "html",
@@ -78,7 +78,7 @@
       "name": "Add in each row 9 cells in the table 'sudoku-grid'",
       "feedback": "You have to add in each row 9 cells in the table 'sudoku-grid'",
       "urls": [
-        ""
+        "https://www.w3schools.com/tags/tag_td.asp#:~:text=The%20tag%20defines%20a,with%20the%20element)"
       ],
       "keywords": [
         "html",
@@ -102,7 +102,7 @@
       "name": "Add a button 'Lösung überprüfen' to the table 'sudoku-grid'",
       "feedback": "You have to add a button 'Lösung überprüfen' to the table 'sudoku-grid' with the id 'check-solution' and the javascript 'pruefen()' function",
       "urls": [
-        ""
+        "https://www.w3schools.com/jsref/event_onclick.asp"
       ],
       "keywords": [
         "html",
