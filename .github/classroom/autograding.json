@@ -1,5 +1,5 @@
 {
-  "repo": "helsoc7/html-oku",
+  "repo": "helsoc7/html-sudoku",
   "introduction": "Eure Aufgabe ist es, eine HTML-Datei namens sudoku.html zu erstellen mit einer HTML Tabelle für das Spielfeld.",
   "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Sudoku_parts.svg/640px-Sudoku_parts.svg.png",
   "timeframe": "45 Minuten (Viel Erfolg!)",
@@ -34,7 +34,8 @@
       "name": "Add a table with the id 'sudoku-grid'",
       "feedback": "You have to add a table tag with the id 'sudoku-grid'",
       "urls": [
-        "https://www.w3schools.com/html/html_id.asp", "https://www.w3schools.com/html/html_tables.asp"
+        "https://www.w3schools.com/html/html_id.asp",
+        "https://www.w3schools.com/html/html_tables.asp"
       ],
       "keywords": [
         "html",
